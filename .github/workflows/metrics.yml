@@ -33,9 +33,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_types: commit,pull_request
-          plugin_notable_from: all
-          plugin_notable_skipped: img
-          plugin_notable_repositories: yes
           # People plugin: This plugin can display relationships with users, such as followers, sponsors, contributors, stargazers, watchers, members, etc.
           plugin_people: yes
           plugin_people_limit: 0
