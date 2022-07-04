@@ -20,32 +20,25 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_achievements: yes
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # Most used languages
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent.days: 14
-          plugin_languages_recent.load: 300
-          plugin_languages_sections: most-used
+          plugin_languages_recent.days: 180
+          plugin_languages_recent.load: 600
+          plugin_languages_sections: most-used,recently-used
           plugin_languages_threshold: 0%
+          # Notable contributions
           plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_types: commit,pull_request
+          plugin_notable_from: all
+          # People plugin: This plugin can display relationships with users, such as followers, sponsors, contributors, stargazers, watchers, members, etc.
           plugin_people: yes
-          plugin_people_limit: 24
+          plugin_people_limit: 0
           plugin_people_size: 28
-          plugin_people_types: followers, following
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_support: yes
+          plugin_people_types: followers
+          # WakaTime plugin: This plugin displays statistics from your WakaTime account.
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
@@ -53,3 +46,12 @@ jobs:
           plugin_wakatime_limit: 4
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: .user.login
+          # Starred topics: This plugin displays starred topics. Check out GitHub topics to search interesting topics.
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: starred
+          plugin_topics_limit: 20
+          # Achievements: This plugin displays several highlights about what you achieved on GitHub.
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
