@@ -18,10 +18,10 @@ jobs:
           # Options
           user: k8scat
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
           config_timezone: Asia/Shanghai
           # WakaTime plugin: This plugin displays statistics from your WakaTime account.
-          plugin_wakatime: yes
+          plugin_wakatime: false
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time # Display time and projects sections, along with projects graphs
@@ -29,10 +29,10 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: .user.login
           # People plugin: This plugin can display relationships with users, such as followers, sponsors, contributors, stargazers, watchers, members, etc.
-          plugin_people: yes
+          plugin_people: false
           plugin_people_limit: 0
           plugin_people_size: 28
           plugin_people_types: followers
           # Gists: This plugin displays gists stats.
-          plugin_gists: yes
+          plugin_gists: false
           
