@@ -21,7 +21,7 @@ jobs:
           base: header, metadata
           config_timezone: Asia/Shanghai
           # WakaTime plugin: This plugin displays statistics from your WakaTime account.
-          plugin_wakatime: false
+          plugin_wakatime: true
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_sections: time # Display time and projects sections, along with projects graphs
