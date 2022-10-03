@@ -4,7 +4,7 @@
 
 Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 
-### Maintaining Projects 🚧
+### Projects Maintaining 🚧
 
 - [email-canal](https://github.com/k8scat/email-canal) Continuous email process tool based on Kafka.
 
@@ -22,7 +22,7 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 - [jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
 - [aliyun-cli](https://github.com/aliyun/aliyun-cli) Alibaba Cloud CLI
 
-### Archived Projects ⚠️
+### Projects Archived ⚠️
 
 - [Gigrator](https://github.com/k8scat/gigrator) Git repos migration tool which supports Github / Gitee / Gitlab / Gitea / Coding / Gogs / 腾讯工蜂.
 - [lua-resty-feishu-auth](https://github.com/k8scat/lua-resty-feishu-auth) 适用于 OpenResty / ngx_lua 的基于飞书组织架构的登录认证
