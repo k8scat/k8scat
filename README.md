@@ -21,6 +21,7 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 - [taoes/SimpleDocker](https://github.com/taoes/SimpleDocker) SimpleDocker 是一个简单的Docker控制面板，致力于可以让开发者更方便，更无障碍的使用Docker, 其界面简洁，操作便捷，更多功能欢迎探索 !
 - [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
 - [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli) Alibaba Cloud CLI
+- [hazcod/enpass-cli](https://github.com/hazcod/enpass-cli) Enpass commandline client
 
 ### Projects Archived ⚠️
 
