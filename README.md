@@ -22,6 +22,7 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 - [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
 - [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli) Alibaba Cloud CLI
 - [hazcod/enpass-cli](https://github.com/hazcod/enpass-cli) Enpass commandline client
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software.
 
 ### Projects Archived ⚠️
 
