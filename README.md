@@ -8,6 +8,11 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 
 - [email-canal](https://github.com/k8scat/email-canal) Continuous email process tool based on Kafka.
 
+### Contributes in progress
+
+- [answerdev/answer #13](https://github.com/answerdev/answer/pull/13)
+- [knqyf263/pet #212](https://github.com/knqyf263/pet/pull/212)
+
 ### OSS Contributed 💪
 
 - [apache/kafka](https://github.com/apache/kafka) A Distributed Streaming Platform.
