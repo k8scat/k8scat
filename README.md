@@ -10,7 +10,6 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 
 ### Contributes in progress
 
-- [answerdev/answer #13](https://github.com/answerdev/answer/pull/13)
 - [knqyf263/pet #212](https://github.com/knqyf263/pet/pull/212)
 
 ### OSS Contributed 💪
@@ -28,6 +27,7 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 - [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli) Alibaba Cloud CLI
 - [hazcod/enpass-cli](https://github.com/hazcod/enpass-cli) Enpass commandline client
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software.
+- [answerdev/answer](https://github.com/answerdev/answer) An open-source knowledge based community software.
 
 ### Projects Archived ⚠️
 
