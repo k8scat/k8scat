@@ -7,6 +7,7 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 ### Projects Maintaining 🚧
 
 - [email-canal](https://github.com/k8scat/email-canal) Continuous email process tool based on Kafka.
+- [Articli](https://github.com/k8scat/Articli) Publish article anywhere.
 
 ### Contributes in progress
 
@@ -35,7 +36,6 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 - [lua-resty-feishu-auth](https://github.com/k8scat/lua-resty-feishu-auth) 适用于 OpenResty / ngx_lua 的基于飞书组织架构的登录认证
 - [lua-resty-weauth](https://github.com/k8scat/lua-resty-weauth) 适用于 OpenResty / ngx_lua 的基于企业微信组织架构的登录认证
 - [ForMaiR](https://github.com/k8scat/ForMaiR) auto Forward eMails with custom Rules.
-- [Articli](https://github.com/k8scat/Articli) Manage content in multi platforms.
 - [yuque](https://github.com/k8scat/yuque) Yuque Client SDK in Rust.
 - [harbor_rs](https://github.com/k8scat/harbor_rs) Harbor API in Rust.
 - [fxiaoke](https://github.com/k8scat/fxiaoke) 纷享销客开放平台 Go SDK
