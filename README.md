@@ -8,6 +8,10 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 
 - [email-canal](https://github.com/k8scat/email-canal) Continuous email process tool based on Kafka.
 - [Articli](https://github.com/k8scat/Articli) Publish article anywhere.
+- Resium 源自下载
+  - [resium-app](https://github.com/k8scat/resium-app) 基于 uni-app 实现的源自下载小程序
+  - [resium-api](https://github.com/k8scat/resium-api) 源自下载小程序后端，实现多平台资源下载。
+  - [resium-downhub](https://github.com/k8scat/resium-downhub) 重构资源下载工具，支持多平台，支持多种资源下载。
 
 ### Contributes in progress
 
