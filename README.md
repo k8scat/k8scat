@@ -13,9 +13,7 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
   - [resium-api](https://github.com/k8scat/resium-api) 源自下载小程序后端，实现多平台资源下载。
   - [resium-downhub](https://github.com/k8scat/resium-downhub) 重构资源下载工具，支持多平台，支持多种资源下载。
 
-### Contributes in progress
-
-- [knqyf263/pet #212](https://github.com/knqyf263/pet/pull/212)
+<!-- ### Contributes in progress -->
 
 ### OSS Contributed 💪
 
@@ -33,6 +31,7 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 - [hazcod/enpass-cli](https://github.com/hazcod/enpass-cli) Enpass commandline client
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software.
 - [answerdev/answer](https://github.com/answerdev/answer) An open-source knowledge based community software.
+- [knqyf263/pet](https://github.com/knqyf263/pet)
 
 ### Projects Archived ⚠️
 
