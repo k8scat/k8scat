@@ -31,7 +31,7 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 - [hazcod/enpass-cli](https://github.com/hazcod/enpass-cli) Enpass commandline client
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software.
 - [answerdev/answer](https://github.com/answerdev/answer) An open-source knowledge based community software.
-- [knqyf263/pet](https://github.com/knqyf263/pet)
+- [knqyf263/pet](https://github.com/knqyf263/pet) Simple command-line snippet manager, written in Go.
 
 ### Projects Archived ⚠️
 
