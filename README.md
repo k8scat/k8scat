@@ -2,12 +2,9 @@
 
 ### Programming Languages 🧑🏻‍💻
 
-Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
+Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 
-### Projects Maintaining 🚧
-
-- [email-canal](https://github.com/k8scat/email-canal) Continuous email process tool based on Kafka.
-- [Articli](https://github.com/k8scat/Articli) Publish article anywhere.
+<!-- ### Projects Maintaining 🚧 -->
 
 <!-- ### Contributes in progress -->
 
@@ -28,6 +25,7 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software.
 - [answerdev/answer](https://github.com/answerdev/answer) An open-source knowledge based community software.
 - [knqyf263/pet](https://github.com/knqyf263/pet) Simple command-line snippet manager, written in Go.
+- [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) 代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型
 
 ### Projects Archived ⚠️
 
@@ -39,5 +37,5 @@ Golang, TypeScript, Python, Shell, Rust, Lua, Java, Groovy
 - [harbor_rs](https://github.com/k8scat/harbor_rs) Harbor API in Rust.
 - [fxiaoke](https://github.com/k8scat/fxiaoke) 纷享销客开放平台 Go SDK
 - [action-mirror-git](https://github.com/k8scat/action-mirror-git) Synchronize git repositories like a mirror.
-
-
+- [email-canal](https://github.com/k8scat/email-canal) Continuous email process tool based on Kafka.
+- [Articli](https://github.com/k8scat/Articli) Publish article anywhere.
