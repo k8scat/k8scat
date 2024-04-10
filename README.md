@@ -26,7 +26,6 @@ Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 - [apache/kafka](https://github.com/apache/kafka) A Distributed Streaming Platform.
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [IBM/sarama](https://github.com/IBM/sarama) Sarama is a Go library for Apache Kafka.
-- [docker/docs](https://github.com/docker/docs) Source repo for Docker's Documentation
 - [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli) Alibaba Cloud CLI
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software.
 - [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
