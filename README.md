@@ -40,3 +40,4 @@ Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 - [knqyf263/pet](https://github.com/knqyf263/pet) Simple command-line snippet manager, written in Go.
 - [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 - [oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai) i茅台app自动预约，每日自动预约，支持docker一键部署
+- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) OpenAI API Free Reverse Proxy
