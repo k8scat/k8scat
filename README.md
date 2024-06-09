@@ -42,3 +42,4 @@ Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 - [oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai) i茅台app自动预约，每日自动预约，支持docker一键部署
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) OpenAI API Free Reverse Proxy
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) golang微信SDK
+- [MartialBE/one-api](https://github.com/MartialBE/one-api) OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
