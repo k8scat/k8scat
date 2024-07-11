@@ -45,3 +45,4 @@ Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) golang微信SDK
 - [MartialBE/one-api](https://github.com/MartialBE/one-api) OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [bincooo/chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) 集成了openai-api、bing、gemini、coze、claude、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
+- [Deeptrain-Community/chatnio-blob-service](https://github.com/Deeptrain-Community/chatnio-blob-service) About 📦 Out-Of-The-Box & Powerful File Parsing Service, support Text/Pdf/Docx/Pptx/Xlsx/Image/Audio parsing, support OCR, support Base64/Local/S3/R2/TG/MinIO storage.
