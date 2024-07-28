@@ -43,7 +43,7 @@ Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 - [oddfar/campus-imaotai](https://github.com/oddfar/campus-imaotai) i茅台app自动预约，每日自动预约，支持docker一键部署
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) OpenAI API Free Reverse Proxy
 - [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) golang微信SDK
-- [MartialBE/one-api](https://github.com/MartialBE/one-api) OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+- [MartialBE/one-hub](https://github.com/MartialBE/one-hub) OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [bincooo/chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) 集成了openai-api、bing、gemini、coze、claude、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
 - [Deeptrain-Community/chatnio-blob-service](https://github.com/Deeptrain-Community/chatnio-blob-service) About 📦 Out-Of-The-Box & Powerful File Parsing Service, support Text/Pdf/Docx/Pptx/Xlsx/Image/Audio parsing, support OCR, support Base64/Local/S3/R2/TG/MinIO storage.
 - [langgenius/dify](https://github.com/langgenius/dify) Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
