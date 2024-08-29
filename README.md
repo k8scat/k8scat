@@ -6,6 +6,8 @@ Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 
 ### Projects Owned 💻
 
+- [go-trending](https://github.com/k8scat/go-trending) Rust 实现，将 GitHub Trending 的开源项目推送到一些内容平台，比如知识星球，同时结合 OpenAI 自动生成项目的介绍。
+- [flux-api](https://github.com/k8scat/flux-api) 免费渠道的 Flux 文生图 API，同时兼容 OpenAI 的 Image 和 Chat 接口，支持自动翻译 Prompt，可以直接接入 one-api / one-hub / new-api 等中转平台
 - [Gigrator](https://github.com/k8scat/gigrator) Git repos migration tool which supports Github / Gitee / Gitlab / Gitea / Coding / Gogs / 腾讯工蜂.
 - [lua-resty-feishu-auth](https://github.com/k8scat/lua-resty-feishu-auth) 适用于 OpenResty / ngx_lua 的基于飞书组织架构的登录认证
 - [lua-resty-weauth](https://github.com/k8scat/lua-resty-weauth) 适用于 OpenResty / ngx_lua 的基于企业微信组织架构的登录认证
