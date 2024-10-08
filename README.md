@@ -25,6 +25,8 @@ Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 
 ### OSS Contributed 💪
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) 🦜🔗 Build context-aware reasoning applications
+- [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) Neo4j graph construction from unstructured data using LLMs
 - [langgenius/dify](https://github.com/langgenius/dify) Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 - [apache/kafka](https://github.com/apache/kafka) A Distributed Streaming Platform.
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
