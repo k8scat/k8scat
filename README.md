@@ -7,7 +7,6 @@ Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 ### Projects Owned 💻
 
 - [wechat-steps](https://github.com/k8scat/wechat-steps) 微信自动设置步数，霸榜微信运动的 No.1。
-- [chrome-auto](https://github.com/k8scat/chrome-auto) 基于浏览器的多 Profile 实现免登入批量自动化执行脚本
 - [github-trending](https://github.com/k8scat/github-trending) Rust 实现，将 GitHub Trending 的开源项目推送到一些内容平台，比如知识星球，同时结合 OpenAI 自动生成项目的介绍。
 - [flux-api](https://github.com/k8scat/flux-api) 免费渠道的 Flux 文生图 API，同时兼容 OpenAI 的 Image 和 Chat 接口，支持自动翻译 Prompt，可以直接接入 one-api / one-hub / new-api 等中转平台
 - [Gigrator](https://github.com/k8scat/gigrator) Git repos migration tool which supports Github / Gitee / Gitlab / Gitea / Coding / Gogs / 腾讯工蜂.
