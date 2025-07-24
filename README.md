@@ -6,6 +6,7 @@ Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 
 ### Projects Owned 💻
 
+- [docker-log-driver-tencent-cls](https://github.com/k8scat/docker-log-driver-tencent-cls) Docker logging driver that forwards container logs to Tencent CLS.
 - [nacos-cli](https://github.com/k8scat/nacos-cli) 一个用于管理 Nacos 服务器配置、服务和命名空间的命令行工具。
 - [github-trending](https://github.com/k8scat/github-trending) Rust 实现，将 GitHub Trending 的开源项目推送到一些内容平台，比如知识星球，同时结合 OpenAI 自动生成项目的介绍。
 - [flux-api](https://github.com/k8scat/flux-api) 免费渠道的 Flux 文生图 API，同时兼容 OpenAI 的 Image 和 Chat 接口，支持自动翻译 Prompt，可以直接接入 one-api / one-hub / new-api 等中转平台
