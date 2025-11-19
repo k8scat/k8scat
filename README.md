@@ -58,3 +58,4 @@ Golang, Rust, Python, JS/TS, Shell/Bash, Lua, Java, Groovy, C/C++ ...
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [temporalio/sdk-go](https://github.com/temporalio/sdk-go) Temporal is a distributed, scalable, durable, and highly available orchestration engine used to execute asynchronous long-running business logic in a scalable and resilient way.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+- [elastic/ecs-logging-python](https://github.com/elastic/ecs-logging-python) The library currently implements ECS 1.6.
